@@ -1,4 +1,4 @@
-﻿;感謝您使用這個很爛的越獄宏，這花了我很多時間及精力:DD
+;感謝您使用這個很爛的越獄宏，這花了我很多時間及精力:DD
 
 #Persistent
 #SingleInstance Force
@@ -11,39 +11,40 @@ clickToggle := false
 resetToggle := false
 
 ; 防按`(啟動時自動啟用)
-$`:: 
-if (!isKeyPressed) {
-    isKeyPressed := true
-    Sleep, 100
-    Send, `{`} 
-}
+
+$`::
+    ; 按下 ` 鍵，並立即輸出 `
+    Send, ``
+    
+    ; 延遲 500 毫秒（0.2 秒），再輸出 `
+    SetTimer, PressBacktick, -200
 return
 
-ResetKeyPress:
-isKeyPressed := false
+PressBacktick:
+    Send, ``
 return
 
 ; F2 Help
 F2:: 
-MsgBox , 𝑯𝒆𝒍𝒑 `n ●F2:Get Help `n ▲F3:Auto Reset (press "R") `n ●F4:Auto Clicker `n ●F5:Auto Guns `n ●F7:Exit `n ●F8:🐣 `n ▲Anti Press"n"(Auto Execute) `n -------------------------------- `n ●:Working `n ▲Working (Maybe) `n ✖:Not Working `n -------------------------------- `n Version:0.69.420(Alpha). `n © 2024 JailbeakMarco. All rights reserved. `n `n 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞-𝐛𝐢𝐭.𝐥𝐲/𝐉𝐚𝐢𝐥𝐛𝐫𝐞𝐚𝐤𝐌𝐚𝐫𝐜𝐨
+MsgBox , 𝑯𝒆𝒍𝒑 `n ●F2:Get Help `n ●F3:Auto Reset (press "R") `n ●F4:Auto Clicker `n ●F5:Auto Guns `n ●F7:Exit `n ●F8:🐣 `n ●Anti Press"```"(Auto Execute) `n -------------------------------- `n ●:Working `n ▲Working (Maybe) `n ✖:Not Working `n -------------------------------- `n Version:0.69.420(Alpha). `n © 2024 JailbeakMarco. All rights reserved. `n `n 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞-𝐛𝐢𝐭.𝐥𝐲/𝐉𝐚𝐢𝐥𝐛𝐫𝐞𝐚𝐤𝐌𝐚𝐫𝐜𝐨
 return
 
-; F3 AutoReset
+; F3 AutoReset  
 F3::
-resetToggle := !resetToggle  ; 切換開關
+resetToggle := !resetToggle  ; 開關
 return
 
+#If resetToggle  
 R::
-if (resetToggle)  
-{
     Sleep, 100
     Send, {Esc}
     Sleep, 100
     Send, R
     Sleep, 100
     Send, {Enter}
-}
-return
+    return
+#If  
+
 
 ; F4 AutoClicker
 F4:: 
