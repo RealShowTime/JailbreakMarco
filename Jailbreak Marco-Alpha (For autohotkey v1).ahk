@@ -16,7 +16,7 @@ $`::
     ; 按下 ` 鍵，並立即輸出 `
     Send, ``
     
-    ; 延遲 200 毫秒（0.2 秒）後輸出 `
+    ; 延遲 500 毫秒（0.2 秒），再輸出 `
     SetTimer, PressBacktick, -200
 return
 
@@ -26,7 +26,7 @@ return
 
 ; F2 Help
 F2:: 
-MsgBox , 𝑯𝒆𝒍𝒑 `n ●F2:Get Help `n ●F3:Auto Reset (press "R") `n ●F4:Auto Clicker `n ●F5:Auto Guns `n ●F7:Exit `n ●F8:🐣 `n ●Anti Press"```"(Auto Execute) `n -------------------------------- `n ●:Working `n ▲Working (Maybe) `n ✖:Not Working `n -------------------------------- `n Version:0.69.420(Alpha). `n © 2024 JailbeakMarco. All rights reserved. `n `n 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞-𝐛𝐢𝐭.𝐥𝐲/𝐉𝐚𝐢𝐥𝐛𝐫𝐞𝐚𝐤𝐌𝐚𝐫𝐜𝐨
+MsgBox , 𝑯𝒆𝒍𝒑 `n ●F2:Get Help `n ●F3:Auto Reset (press "R") `n ●F4:Auto Clicker `n ●F5:Auto Guns `n ●F7:Exit `n ●F8:🐣 `n ●Anti Press"```"(Auto Execute) `n -------------------------------- `n ●:Working `n ▲Working (Maybe) `n ✖:Not Working `n -------------------------------- `n Version:0.69.420(Alpha). `n © 2024 JailbeakMarco. All rights reserved. `n `n 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐖𝐞𝐛𝐬𝐢𝐭𝐞-𝐛𝐢𝐭.𝐥𝐲/𝐉𝐚𝐢𝐥𝐛𝐫𝐞𝐚𝐤𝐌𝐚𝐫𝐜𝐨 `n 𝐎𝐟𝐟𝐢𝐜𝐚𝐥 𝐃𝐢𝐬𝐜𝐨𝐫𝐝-𝐝𝐬𝐜.𝐠𝐠/𝐉𝐚𝐢𝐥𝐛𝐫𝐞𝐚𝐤𝐌𝐚𝐫𝐜𝐨
 return
 
 ; F3 AutoReset  
