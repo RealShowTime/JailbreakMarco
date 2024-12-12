@@ -11,7 +11,7 @@ resetToggle := false
 ; 防按`(啟動時自動啟用)
 
 $`::
-    Send, ``
+    Send, `` ;; 原本的 ` 鍵打回來(防止輸入時無法顯示)
     SetTimer, PressBacktick, -200
 return
 
@@ -21,7 +21,7 @@ return
 
 ; F2 Help
 F2:: 
-MsgBox , 𝑯𝒆𝒍𝒑 `n ●F2:Get Help `n ●F3:Auto Reset (press "R") `n ●F4:Auto Clicker `n ●F5:Auto Guns `n ●F7:Exit `n ●F8:🐣 `n ●Anti Press"```"(Auto Execute) `n -------------------------------- `n ●:Working `n ▲Working (Maybe) `n ✖:Not Working `n -------------------------------- `n Version:0.69.420(Alpha). `n © 2024 JailbeakMarco. All rights reserved. `n `n ፏፏጿጯጟጯጏጟፏጯጯ
+MsgBox , 𝑯𝒆𝒍𝒑 `n ▲F2:Get Help `n ▲F3:Auto Reset (press "R") `n ▲F4:Auto Clicker `n ▲F5:Auto Guns `n ▲F7:Exit `n ●F8:🐣 `n ▲Anti Press"```"(Auto Execute) `n -------------------------------- `n ●:Working `n ▲Needs Attention or Partially Working `n ✖:Not Working `n -------------------------------- `n Version:0.69.420(Alpha). `n © 2024 JailbeakMarco. All rights reserved. `n `n ፏፏጿጯጟጯጏጟፏጯጯ
 return
 
 ; F3 AutoReset  
