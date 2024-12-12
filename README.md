@@ -15,7 +15,7 @@
     TrayTip, Success, 💀, 250 ; 0.25秒的訊息通知
     toggle := false
     return
-![範例](https://drive.google.com/uc?id=1tbQrcIwLDSB7h_neXRYonLhjXQE2P9RZ)
+![範例]([https://drive.google.com/uc?id=1tbQrcIwLDSB7h_neXRYonLhjXQE2P9RZ](https://drive.google.com/file/d/1tbQrcIwLDSB7h_neXRYonLhjXQE2P9RZ/view?usp=drive_link))
 
 - ✅ 自動重設人偶
   - !!**我不是俗辣**!!
