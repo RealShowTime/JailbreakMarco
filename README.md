@@ -6,7 +6,7 @@
     MsgBox , bit.ly/JailbreakMarco
     ```
 - ✅ 一秒切槍(G hub下去)
-  - ```ahk
+  -```ahk
    ; Guns
    SendCommands:
    SetKeyDelay, 0, 5 ; 延遲
@@ -14,5 +14,4 @@
    Send, {\}} ; 取消\選取模式
    TrayTip, Success, 💀, 250 ; 0.25秒的訊息通知
    toggle := false
-   return
-   ```
+   return ```
