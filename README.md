@@ -26,4 +26,4 @@
 
 - ✅ 彩蛋 
    - F8?
-> **更多幫助詳見F2，如需協助請至[DC](dsc.gg/JailbreakMarco)**
+> **更多幫助詳見F2，如需協助請至[DC](https://dsc.gg/JailbreakMarco)**
