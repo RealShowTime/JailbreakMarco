@@ -16,7 +16,8 @@
     toggle := false
     return!
 
-  [GIF 描述](https://drive.google.com/uc?export=view&id=1tbQrcIwLDSB7h_neXRYonLhjXQE2P9RZ)
+  ![GIF 描述](https://drive.google.com/uc?export=view&id=1tbQrcIwLDSB7h_neXRYonLhjXQE2P9RZ)
+
 
 
 - ✅ 自動重設人偶
