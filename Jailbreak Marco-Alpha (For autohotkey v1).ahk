@@ -77,8 +77,8 @@ return
 
 ; F8 RickRoll :troll:
 F8::
-Run, https://www.youtube.com/watch?v=dQw4w9WgXcQ
-Tooltip, Never Gonna Give You Up 
+Run, https://reurl.cc/RLvQg9
+Tooltip, Cool
 return
 
 ; Guns
