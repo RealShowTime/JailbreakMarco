@@ -14,8 +14,10 @@
     ;跟著你的拿槍順序按不夠加Send, 太多的話刪除~
     TrayTip, Success, 💀, 250 ; 0.25秒的訊息通知
     toggle := false
-    return
-![GIF 描述](https://drive.google.com/uc?export=view&id=1tbQrcIwLDSB7h_neXRYonLhjXQE2P9RZ)
+    return!
+
+  [GIF 描述](https://drive.google.com/uc?export=view&id=1tbQrcIwLDSB7h_neXRYonLhjXQE2P9RZ)
+
 
 - ✅ 自動重設人偶
   - !!**我不是俗辣**!!
