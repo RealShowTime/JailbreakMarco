@@ -30,6 +30,6 @@
 > **更多幫助詳見F2，如需協助請至[DC](https://dsc.gg/JailbreakMarco)**
 
 # 重要
-目前建議下載autohotkey v1版本
-autohotkey v2 版本未經測試
-感謝[ChatGPT](https://chatgpt.com/)提供v2版本
+-  目前建議下載autohotkey v1版本
+-  autohotkey v2 版本未經測試
+-  感謝[ChatGPT](https://chatgpt.com/)提供v2版本
