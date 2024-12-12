@@ -33,3 +33,7 @@
 -  目前建議下載autohotkey v1版本
 -  autohotkey v2 版本未經測試
 -  感謝[ChatGPT](https://chatgpt.com/)提供v2版本
+
+#如何下載AutoHotkey
+前往[AutoHotkey官網](https://www.autohotkey.com/)
+![image](https://github.com/user-attachments/assets/e0bbbffa-ed24-45ca-826d-e6526e289694)
