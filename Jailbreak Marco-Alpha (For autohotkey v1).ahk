@@ -14,7 +14,7 @@ resetToggle := false
 
 $`::
     ; 按下 ` 鍵，並立即輸出 `
-    Send, ``
+    Send, `` ; 原本的 ` 鍵打回來(防止輸入時無法顯示)
     
     ; 延遲 500 毫秒（0.2 秒），再輸出 `
     SetTimer, PressBacktick, -200
@@ -101,3 +101,4 @@ toggle := false
 return
 
 ;Last update:12/9/24 04:02:17 (PST)
+    
