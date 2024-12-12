@@ -4,7 +4,7 @@
   - ```ahk
     F2:: ;在這裡更改快捷鍵~
     MsgBox , bit.ly/JailbreakMarco
-    ```
+    
 - ✅ 一秒切槍(G hub下去)
   - ```ahk
     ; Guns
