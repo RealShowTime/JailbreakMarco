@@ -3,5 +3,6 @@
 - ✅ 自訂各功能快捷鍵
   - ```ahk
     F2:: 
-MsgBox ,bit.ly/JailbreakMarco
-```
+    MsgBox ,bit.ly/JailbreakMarco
+    ```
+
