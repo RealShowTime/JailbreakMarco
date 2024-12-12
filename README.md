@@ -16,11 +16,6 @@
     toggle := false
     return!
 
-[![GIF 預覽]([https://i.imgur.com/oS98fPI.gif](https://imgur.com/Xj2TUev))](https://imgur.com/Xj2TUev)
-
-
-
-
 - ✅ 自動重設人偶
   - !!**我不是俗辣**!!
 
