@@ -16,7 +16,8 @@
     toggle := false
     return!
 
-  [Imgur](https://imgur.com/Xj2TUev)
+![GIF 預覽](https://i.imgur.com/oS98fPI.gif)
+
 
 
 
