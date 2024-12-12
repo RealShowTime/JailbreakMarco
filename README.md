@@ -37,5 +37,9 @@
 # 如何下載AutoHotkey
 - 前往[AutoHotkey官網](https://www.autohotkey.com/)
 ![image](https://github.com/user-attachments/assets/e0bbbffa-ed24-45ca-826d-e6526e289694)
-- 點擊下載版本(建議為v11)
+- 點擊下載版本(建議下載v1)
 - 依據指示下載
+# 如何下載JailbreakMarco
+- 點擊需要使用的檔案並下載
+![image](https://github.com/user-attachments/assets/450625ff-b0c1-457c-9799-fe2540232f2b)
+
