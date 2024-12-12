@@ -75,7 +75,7 @@ F7::
 exitapp
 return
 
-; F8 RickRoll :troll:
+; F8 Sth cool :troll:
 F8::
 Run, https://reurl.cc/RLvQg9
 Tooltip, Cool
