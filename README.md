@@ -6,7 +6,7 @@
     MsgBox , bit.ly/JailbreakMarco
     ```
 - ✅ 一秒切槍(G hub下去)
-   ```ahk
+  - ```ahk
    ; Guns
    SendCommands:
    SetKeyDelay, 0, 5 ; 延遲
