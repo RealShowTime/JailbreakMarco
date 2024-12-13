@@ -56,3 +56,7 @@
 - AutoHotkey目前只支援Windows系統電腦
 - 執行任何ahk檔案前都要查看源碼，避免損害電腦
 - 歡迎使用源碼二次創作，須註明原網站
+
+# 原作者個人檔案
+- (Guns.lol){https://guns.lol/RealShowTime}
+- (Discord.com){https://dsc.gg/JailbreakMarco}
