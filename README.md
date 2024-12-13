@@ -43,6 +43,9 @@
 # 如何下載JailbreakMarco
 - 點擊需要使用的檔案並下載至桌面
 ![image](https://github.com/user-attachments/assets/450625ff-b0c1-457c-9799-fe2540232f2b)
--右鍵 -> 記事本編輯 ->另存新檔
+- 右鍵 -> 記事本編輯 ->另存新檔
 ![image](https://github.com/user-attachments/assets/bfd32c80-5222-43e1-a183-6e2f7e4f2528)
+- 
+![image](https://github.com/user-attachments/assets/2e4f2950-6edb-4138-a4e9-d6b9d12cf05f)
+
 
