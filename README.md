@@ -44,4 +44,5 @@
 - 點擊需要使用的檔案並下載至桌面
 ![image](https://github.com/user-attachments/assets/450625ff-b0c1-457c-9799-fe2540232f2b)
 -右鍵 -> 記事本編輯 ->另存新檔
-![image](https://github.com/user-attachments/assets/1b04dc80-e68d-418f-b652-4e60b9be2fcb)
+![image](https://github.com/user-attachments/assets/bfd32c80-5222-43e1-a183-6e2f7e4f2528)
+
