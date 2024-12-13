@@ -49,6 +49,7 @@
 - 桌面 -> 存檔類型:所有檔案 -> 使用BOM的UTF-8 ->取名
 
 > **檔名需以ahk結尾，如jb.ahk，否則會以txt文件檔處存**
+
 ![image](https://github.com/user-attachments/assets/2e4f2950-6edb-4138-a4e9-d6b9d12cf05f)
 
 > **未更改編碼方式檔案會以亂碼顯示**
