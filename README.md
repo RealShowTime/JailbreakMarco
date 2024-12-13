@@ -46,7 +46,7 @@
 - 右鍵 -> 記事本編輯 ->另存新檔
 ![image](https://github.com/user-attachments/assets/bfd32c80-5222-43e1-a183-6e2f7e4f2528)
 
-- 桌面 -> 存檔類型:所有檔案 -> 使用BOM的UTF-8 ->取名
+- 桌面 -> 存檔類型:所有檔案 -> 使用BOM的UTF-8 -> 取名 -> 處存 刪除原先檔案先檔案
 
 ![image](https://github.com/user-attachments/assets/2e4f2950-6edb-4138-a4e9-d6b9d12cf05f)
 
