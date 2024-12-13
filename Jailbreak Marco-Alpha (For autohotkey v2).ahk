@@ -31,11 +31,11 @@ return
 
 #If resetToggle  
 R::
-    Sleep, 100
+    Sleep, 200
     Send, {Esc}
-    Sleep, 100
+    Sleep, 200
     Send, R
-    Sleep, 100
+    Sleep, 200
     Send, {Enter}
     return
 #If  
