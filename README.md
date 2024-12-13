@@ -41,6 +41,6 @@
 - 點擊下載版本(建議下載v1)
 - 依據指示下載
 # 如何下載JailbreakMarco
-- 點擊需要使用的檔案並下載
+- 點擊需要使用的檔案並下載至桌面
 ![image](https://github.com/user-attachments/assets/450625ff-b0c1-457c-9799-fe2540232f2b)
-
+-右鍵 -> 記事本編輯
