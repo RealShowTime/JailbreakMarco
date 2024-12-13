@@ -45,6 +45,7 @@
 ![image](https://github.com/user-attachments/assets/450625ff-b0c1-457c-9799-fe2540232f2b)
 - 右鍵 -> 記事本編輯 ->另存新檔
 ![image](https://github.com/user-attachments/assets/bfd32c80-5222-43e1-a183-6e2f7e4f2528)
+
 - 桌面 -> 存檔類型:所有檔案 -> 使用BOM的UTF-8 ->取名
 
 > **檔名需以ahk結尾，如jb.ahk，否則會以txt文件檔處存**
